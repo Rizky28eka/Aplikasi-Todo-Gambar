@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338874817571",
+    "firebase_url": "https://todoup-5dc22.firebaseio.com",
+    "project_id": "todoup-5dc22",
+    "storage_bucket": "todoup-5dc22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338874817571:android:ba68e04534a4ba9face596",
+        "android_client_info": {
+          "package_name": "idn.fahru.aplikasitodogambar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338874817571-51t4ndmkdbldle0nn621gr4hq53mrieb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idn.fahru.aplikasitodogambar",
+            "certificate_hash": "74faf1f2d2ef7375c072e6fc9b01be021727b382"
+          }
+        },
+        {
+          "client_id": "338874817571-6cc4mm21se1r9er6vhdjovkgm4t0pc9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQmWP1OUiBPm6ORjo2PGi_4FjPUaBSZl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338874817571-6cc4mm21se1r9er6vhdjovkgm4t0pc9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
